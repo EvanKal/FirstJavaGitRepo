@@ -12,6 +12,7 @@ package Classes;
 public class Android extends Phone {
     
     final double price = 24.99;
+    final int test = 0;
     
     public Android(String brand) {
         super(brand);
